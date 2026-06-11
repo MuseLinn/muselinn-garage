@@ -85,11 +85,26 @@
     },
     {
       "name": "document-skills",
-      "description": "Document creation tools — docx, pdf, pptx, xlsx, frontend-design, mcp-builder, skill-creator, theme-factory, web-artifacts",
+      "description": "Document processing — xlsx, docx, pptx, pdf",
       "source": {
         "source": "url",
-        "url": "https://github.com/anthropics/skills.git",
-        "path": "skills/document-skills"
+        "url": "https://github.com/anthropics/skills.git"
+      }
+    },
+    {
+      "name": "example-skills",
+      "description": "Creative & dev skills — algorithmic-art, canvas-design, frontend-design, mcp-builder, skill-creator, webapp-testing, slack-gif, theme-factory, and more",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/anthropics/skills.git"
+      }
+    },
+    {
+      "name": "claude-api",
+      "description": "Claude API & SDK reference for building LLM-powered applications",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/anthropics/skills.git"
       }
     }
   ]
