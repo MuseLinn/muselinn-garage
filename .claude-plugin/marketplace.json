@@ -27,7 +27,8 @@
       "source": {
         "source": "github",
         "repo": "MuseLinn/MuseLinn-patent-disclosure-skill"
-      }
+      },
+      "skills": ["patent-disclosure"]
     }
   ]
 }
