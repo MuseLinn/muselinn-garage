@@ -1,0 +1,68 @@
+{
+  "name": "muselinn-garage",
+  "owner": {
+    "name": "MuseLinn",
+    "url": "https://github.com/MuseLinn"
+  },
+  "plugins": [
+    {
+      "name": "deepseek-statusline",
+      "description": "Anthropic-warm styled statusline for Claude Code + DeepSeek — colour-coded git, TrueColor gradient bar, code churn, Vim mode, PR status",
+      "source": "./deepseek-statusline"
+    },
+    {
+      "name": "plugin-dev",
+      "description": "Official plugin development toolkit — scaffold plugins, commands, agents, skills, hooks",
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official",
+        "path": "plugins/plugin-dev"
+      }
+    },
+    {
+      "name": "mcp-server-dev",
+      "description": "Build MCP servers — scaffold, test, and deploy MCP integrations",
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official",
+        "path": "plugins/mcp-server-dev"
+      }
+    },
+    {
+      "name": "pr-review-toolkit",
+      "description": "PR review tools — code review, silent failure hunter, type design analyzer, comment analyzer, PR test analyzer",
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official",
+        "path": "plugins/pr-review-toolkit"
+      }
+    },
+    {
+      "name": "hookify",
+      "description": "Analyze conversations and create hooks to prevent mistakes",
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official",
+        "path": "plugins/hookify"
+      }
+    },
+    {
+      "name": "commit-commands",
+      "description": "Git commit, push, and PR creation shortcuts",
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official",
+        "path": "plugins/commit-commands"
+      }
+    },
+    {
+      "name": "feature-dev",
+      "description": "Guided feature development with codebase understanding and architecture focus",
+      "source": {
+        "source": "github",
+        "repo": "anthropics/claude-plugins-official",
+        "path": "plugins/feature-dev"
+      }
+    }
+  ]
+}
