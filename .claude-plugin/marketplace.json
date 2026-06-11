@@ -74,6 +74,14 @@
         "source": "url",
         "url": "https://github.com/Yuan1z0825/nature-skills.git"
       }
+    },
+    {
+      "name": "obsidian",
+      "description": "Create and edit Obsidian vault files — Markdown, Bases (.base), Canvas (.canvas)",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/kepano/obsidian-skills.git"
+      }
     }
   ]
 }
