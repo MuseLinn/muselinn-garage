@@ -11,7 +11,8 @@
       "source": {
         "source": "url",
         "url": "https://github.com/MuseLinn/deepseek-statusline.git"
-      }
+      },
+      "commands": ["setup"]
     },
     {
       "name": "nature-skills",
@@ -19,7 +20,19 @@
       "source": {
         "source": "url",
         "url": "https://github.com/Yuan1z0825/nature-skills.git"
-      }
+      },
+      "skills": [
+        "nature-academic-search",
+        "nature-citation",
+        "nature-data",
+        "nature-figure",
+        "nature-paper2ppt",
+        "nature-polishing",
+        "nature-reader",
+        "nature-response",
+        "nature-reviewer",
+        "nature-writing"
+      ]
     }
   ]
 }
