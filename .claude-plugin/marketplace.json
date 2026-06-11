@@ -8,7 +8,10 @@
     {
       "name": "deepseek-statusline",
       "description": "Anthropic-warm styled statusline for Claude Code + DeepSeek — colour-coded git, TrueColor gradient bar, code churn, Vim mode, PR status",
-      "source": "./deepseek-statusline"
+      "source": {
+        "source": "github",
+        "repo": "MuseLinn/deepseek-statusline"
+      }
     },
     {
       "name": "plugin-dev",
