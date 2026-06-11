@@ -82,6 +82,15 @@
         "source": "url",
         "url": "https://github.com/kepano/obsidian-skills.git"
       }
+    },
+    {
+      "name": "document-skills",
+      "description": "Document creation tools — docx, pdf, pptx, xlsx, frontend-design, mcp-builder, skill-creator, theme-factory, web-artifacts",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/anthropics/skills.git",
+        "path": "skills/document-skills"
+      }
     }
   ]
 }
