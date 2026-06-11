@@ -20,6 +20,14 @@
         "source": "github",
         "repo": "Yuan1z0825/nature-skills"
       }
+    },
+    {
+      "name": "patent-disclosure-skill",
+      "description": "中国专利挖掘与交底书生成全流程：项目扫描→专利点分析→联网查新→交底书(MD+Word)→自检。含公式渲染、mermaid框图、国知局检索。",
+      "source": {
+        "source": "github",
+        "repo": "MuseLinn/MuseLinn-patent-disclosure-skill"
+      }
     }
   ]
 }
