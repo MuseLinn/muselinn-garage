@@ -84,8 +84,8 @@
       }
     },
     {
-      "name": "example-skills",
-      "description": "Creative & dev skills — algorithmic-art, canvas-design, frontend-design, mcp-builder, skill-creator, webapp-testing, slack-gif, theme-factory, and more",
+      "name": "document-skills",
+      "description": "Document & creative skills — xlsx, docx, pptx, pdf, algorithmic-art, canvas-design, frontend-design, mcp-builder, skill-creator, webapp-testing, and more",
       "source": {
         "source": "url",
         "url": "https://github.com/anthropics/skills.git"
