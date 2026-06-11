@@ -9,30 +9,17 @@
       "name": "deepseek-statusline",
       "description": "Anthropic-warm styled statusline for Claude Code + DeepSeek — colour-coded git, TrueColor gradient bar, code churn, Vim mode, PR status",
       "source": {
-        "source": "url",
-        "url": "https://github.com/MuseLinn/deepseek-statusline.git"
-      },
-      "commands": ["setup"]
+        "source": "github",
+        "repo": "MuseLinn/deepseek-statusline"
+      }
     },
     {
       "name": "nature-skills",
       "description": "Academic writing toolkit — search, citation, figure, paper-to-PPT, polishing, reviewer response, reader",
       "source": {
-        "source": "url",
-        "url": "https://github.com/Yuan1z0825/nature-skills.git"
-      },
-      "skills": [
-        "nature-academic-search",
-        "nature-citation",
-        "nature-data",
-        "nature-figure",
-        "nature-paper2ppt",
-        "nature-polishing",
-        "nature-reader",
-        "nature-response",
-        "nature-reviewer",
-        "nature-writing"
-      ]
+        "source": "github",
+        "repo": "Yuan1z0825/nature-skills"
+      }
     }
   ]
 }
