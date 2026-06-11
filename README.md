@@ -1,42 +1,42 @@
 #  MuseLinn's Garage
 
-> *Tools don't build themselves. Welcome to the garage.*
+> *Not a warehouse. A garage — just the tools you actually built or fixed yourself.*
 
-A Claude Code plugin marketplace — one `claude plugin marketplace add` gets you everything.
+A focused Claude Code plugin marketplace. Only plugins that benefit from being here.
 
 ## What's in the garage
 
-| Tool | What it does |
+| Tool | Why it's here |
 |---|---|
-| **deepseek-statusline** | Warm Anthropic-style statusline with git porcelain, TrueColor context bar, cost tracking |
-| **plugin-dev** | Scaffold plugins, commands, agents, skills, hooks |
-| **mcp-server-dev** | Build and deploy MCP servers |
-| **pr-review-toolkit** | Code review, silent failure hunter, type analysis |
-| **hookify** | Auto-create hooks from conversation patterns |
-| **commit-commands** | `commit`, `commit-push-pr` shortcuts |
-| **feature-dev** | Guided feature development workflow |
+| **deepseek-statusline** | Self-maintained. Anthropic-warm statusline for Claude Code + DeepSeek |
+| **nature-skills** | Academic toolkit — search, citation, figure, paper-to-PPT, polishing, reviewer response, reader |
+
+## What's NOT here (on purpose)
+
+Official Anthropic plugins (plugin-dev, mcp-server-dev, pr-review-toolkit, etc.) are best installed directly from their source marketplaces. A garage marketplace adds no value for these — `claude plugin update` works the same either way, and you lose the component preview.
+
+```bash
+# Official plugins — use the source
+claude plugin marketplace add anthropics/claude-plugins-official
+claude plugin install plugin-dev mcp-server-dev pr-review-toolkit hookify commit-commands feature-dev
+
+# Skills — use the source  
+claude plugin marketplace add anthropics/skills
+claude plugin install document-skills
+
+# Obsidian
+claude plugin marketplace add kepano/obsidian-skills
+claude plugin install obsidian
+```
 
 ## Install
 
 ```bash
-# One-time: add the garage to your marketplace list
 claude plugin marketplace add MuseLinn/muselinn-garage
-
-# Install everything
-claude plugin install deepseek-statusline plugin-dev mcp-server-dev pr-review-toolkit hookify commit-commands feature-dev
-
-# Or pick what you need
-claude plugin install deepseek-statusline
-
-# Update all tools to latest
-claude plugin update
+claude plugin install deepseek-statusline nature-skills
 ```
 
-After installing `deepseek-statusline`, run `/deepseek-statusline:setup` to configure the statusline.
-
-## What's "garage" about it?
-
-A garage isn't a sterile factory. It's where you keep tools that have character, tools you tweak and tune yourself. `deepseek-statusline` lives here, maintained directly. Third-party tools from Anthropic's official marketplace are just indexed — you get upstream updates automatically.
+After installing `deepseek-statusline`, run `/deepseek-statusline:setup`.
 
 ## License
 

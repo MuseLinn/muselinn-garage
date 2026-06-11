@@ -14,89 +14,11 @@
       }
     },
     {
-      "name": "plugin-dev",
-      "description": "Official plugin development toolkit — scaffold plugins, commands, agents, skills, hooks",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/anthropics/claude-plugins-official.git",
-        "path": "plugins/plugin-dev"
-      }
-    },
-    {
-      "name": "mcp-server-dev",
-      "description": "Build MCP servers — scaffold, test, and deploy MCP integrations",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/anthropics/claude-plugins-official.git",
-        "path": "plugins/mcp-server-dev"
-      }
-    },
-    {
-      "name": "pr-review-toolkit",
-      "description": "PR review tools — code review, silent failure hunter, type design analyzer, comment analyzer, PR test analyzer",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/anthropics/claude-plugins-official.git",
-        "path": "plugins/pr-review-toolkit"
-      }
-    },
-    {
-      "name": "hookify",
-      "description": "Analyze conversations and create hooks to prevent mistakes",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/anthropics/claude-plugins-official.git",
-        "path": "plugins/hookify"
-      }
-    },
-    {
-      "name": "commit-commands",
-      "description": "Git commit, push, and PR creation shortcuts",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/anthropics/claude-plugins-official.git",
-        "path": "plugins/commit-commands"
-      }
-    },
-    {
-      "name": "feature-dev",
-      "description": "Guided feature development with codebase understanding and architecture focus",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/anthropics/claude-plugins-official.git",
-        "path": "plugins/feature-dev"
-      }
-    },
-    {
       "name": "nature-skills",
       "description": "Academic writing toolkit — search, citation, figure, paper-to-PPT, polishing, reviewer response, reader",
       "source": {
         "source": "url",
         "url": "https://github.com/Yuan1z0825/nature-skills.git"
-      }
-    },
-    {
-      "name": "obsidian",
-      "description": "Create and edit Obsidian vault files — Markdown, Bases (.base), Canvas (.canvas)",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/kepano/obsidian-skills.git"
-      }
-    },
-    {
-      "name": "document-skills",
-      "description": "Document & creative skills — xlsx, docx, pptx, pdf, algorithmic-art, canvas-design, frontend-design, mcp-builder, skill-creator, webapp-testing, and more",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/anthropics/skills.git"
-      }
-    },
-    {
-      "name": "claude-api",
-      "description": "Claude API & SDK reference for building LLM-powered applications",
-      "source": {
-        "source": "url",
-        "url": "https://github.com/anthropics/skills.git"
       }
     }
   ]
