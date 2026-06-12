@@ -8,27 +8,17 @@
     {
       "name": "deepseek-statusline",
       "description": "Anthropic-warm styled statusline for Claude Code + DeepSeek — colour-coded git, TrueColor gradient bar, code churn, Vim mode, PR status",
-      "source": {
-        "source": "github",
-        "repo": "MuseLinn/deepseek-statusline"
-      }
-    },
-    {
-      "name": "nature-skills",
-      "description": "Academic writing toolkit — search, citation, figure, paper-to-PPT, polishing, reviewer response, reader",
-      "source": {
-        "source": "github",
-        "repo": "Yuan1z0825/nature-skills"
-      }
+      "source": "./deepseek-statusline"
     },
     {
       "name": "patent-disclosure-skill",
       "description": "中国专利挖掘与交底书生成全流程：项目扫描→专利点分析→联网查新→交底书(MD+Word)→自检。含公式渲染、mermaid框图、国知局检索。",
-      "source": {
-        "source": "github",
-        "repo": "MuseLinn/MuseLinn-patent-disclosure-skill"
-      },
-      "skills": ["patent-disclosure"]
+      "source": "./patent-disclosure"
+    },
+    {
+      "name": "nature-skills",
+      "description": "Academic writing toolkit — search, citation, figure, paper-to-PPT, polishing, reviewer response, reader",
+      "source": "./nature-skills"
     }
   ]
 }
