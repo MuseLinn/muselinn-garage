@@ -24,6 +24,11 @@
       "name": "gpt-image-2",
       "description": "GPT Image 2 — generate, edit, compose images via OpenAI-compatible API. Near-perfect Chinese/English text, custom resolutions up to 3840px",
       "source": "./gpt-image-2"
+    },
+    {
+      "name": "muselinn-toolkit",
+      "description": "Claude Code environment management — check setup health, audit plugins/skills/config, sync with muselinn-garage",
+      "source": "./muselinn-toolkit"
     }
   ]
 }
