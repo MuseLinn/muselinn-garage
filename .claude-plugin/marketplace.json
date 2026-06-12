@@ -19,6 +19,11 @@
       "name": "nature-skills",
       "description": "Academic writing toolkit — search, citation, figure, paper-to-PPT, polishing, reviewer response, reader",
       "source": "./nature-skills"
+    },
+    {
+      "name": "gpt-image-2",
+      "description": "GPT Image 2 — generate, edit, compose images via OpenAI-compatible API. Near-perfect Chinese/English text, custom resolutions up to 3840px",
+      "source": "./gpt-image-2"
     }
   ]
 }
