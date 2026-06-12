@@ -1,12 +1,4 @@
-```
-      ╔══════════════════════════════════╗
-      ║  🔧  MuseLinn's Garage  🔧      ║
-      ║     ┌─┬─┐  ┌─────┐  ⚙️         ║
-      ║  🔨 │ ╳ │  │ 🧰  │  🔩  🪛     ║
-      ║     └─┴─┘  └─────┘              ║
-      ║  one toolbox · all your tools   ║
-      ╚══════════════════════════════════╝
-```
+![MuseLinn's Garage](banner.png)
 
 > *Not a warehouse. A garage — just the tools you actually built or fixed yourself.*
 
