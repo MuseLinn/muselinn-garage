@@ -4,9 +4,6 @@
 [submodule "patent-disclosure"]
 	path = patent-disclosure
 	url = https://github.com/MuseLinn/MuseLinn-patent-disclosure-skill.git
-[submodule "nature-skills"]
-	path = nature-skills
-	url = https://github.com/Yuan1z0825/nature-skills.git
 [submodule "gpt-image-2"]
 	path = gpt-image-2
 	url = https://github.com/MuseLinn/gpt-image-2.git
