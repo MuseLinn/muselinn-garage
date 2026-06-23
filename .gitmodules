@@ -10,3 +10,6 @@
 [submodule "muselinn-toolkit"]
 	path = muselinn-toolkit
 	url = https://github.com/MuseLinn/muselinn-toolkit.git
+[submodule "kimi-vision-mcp"]
+	path = kimi-vision-mcp
+	url = https://github.com/MuseLinn/kimi-vision-mcp.git

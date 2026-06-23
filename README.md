@@ -9,7 +9,10 @@ A focused Claude Code plugin marketplace. Only plugins that benefit from being h
 | Tool | Why it's here |
 |---|---|
 | **deepseek-statusline** | Self-maintained. Anthropic-warm statusline for Claude Code + DeepSeek |
-| **nature-skills** | Academic toolkit — search, citation, figure, paper-to-PPT, polishing, reviewer response, reader |
+| **gpt-image-2** | GPT Image 2 — generate, edit, compose images via OpenAI-compatible API |
+| **patent-disclosure-skill** | 中国专利挖掘与交底书全流程 — 扫描→分析→查新→MD+Word 交底书 |
+| **muselinn-toolkit** | Claude Code environment check — audit plugins/skills/config, sync garage |
+| **kimi-vision-mcp** | Kimi-powered vision MCP — image, OCR, UI→code, diagram, data viz, error, video |
 
 ## What's NOT here (on purpose)
 
@@ -33,7 +36,7 @@ claude plugin install obsidian
 
 ```bash
 claude plugin marketplace add MuseLinn/muselinn-garage
-claude plugin install deepseek-statusline nature-skills
+claude plugin install deepseek-statusline gpt-image-2 patent-disclosure-skill muselinn-toolkit kimi-vision-mcp
 ```
 
 After installing `deepseek-statusline`, run `/deepseek-statusline:setup`.
