@@ -39,7 +39,7 @@ claude plugin marketplace add MuseLinn/muselinn-garage
 claude plugin install claude-code-statusline gpt-image-2 patent-disclosure-skill muselinn-toolkit kimi-vision-mcp
 ```
 
-After installing `claude-code-statusline`, run `/deepseek-statusline:setup`.
+After installing `claude-code-statusline`, run `/deepseek-statusline:setup` or `/configure`.
 
 ## License
 
