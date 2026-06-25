@@ -6,9 +6,9 @@
   },
   "plugins": [
     {
-      "name": "deepseek-statusline",
-      "description": "Anthropic-warm styled statusline for Claude Code + DeepSeek — colour-coded git, TrueColor gradient bar, code churn, Vim mode, PR status",
-      "source": "./deepseek-statusline"
+      "name": "claude-code-statusline",
+      "description": "Multi-provider statusline for Claude Code — DeepSeek ¥ tracking, opencode go subscription usage, Anthropic context bar. TrueColor gradient, git porcelain, code churn.",
+      "source": "./claude-code-statusline"
     },
     {
       "name": "patent-disclosure-skill",
