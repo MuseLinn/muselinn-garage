@@ -1,6 +1,3 @@
-[submodule "deepseek-statusline"]
-	path = deepseek-statusline
-	url = https://github.com/MuseLinn/claude-code-statusline.git
 [submodule "patent-disclosure"]
 	path = patent-disclosure
 	url = https://github.com/MuseLinn/MuseLinn-patent-disclosure-skill.git
@@ -13,3 +10,6 @@
 [submodule "kimi-vision-mcp"]
 	path = kimi-vision-mcp
 	url = https://github.com/MuseLinn/kimi-vision-mcp.git
+[submodule "claude-code-statusline"]
+	path = claude-code-statusline
+	url = https://github.com/MuseLinn/claude-code-statusline.git
