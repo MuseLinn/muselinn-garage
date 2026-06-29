@@ -13,6 +13,7 @@ A focused Claude Code plugin marketplace. Only plugins that benefit from being h
 | **patent-disclosure-skill** | 中国专利挖掘与交底书全流程 — 扫描→分析→查新→MD+Word 交底书 |
 | **muselinn-toolkit** | Claude Code environment check — audit plugins/skills/config, sync garage |
 | **kimi-vision-mcp** | Kimi-powered vision MCP — image, OCR, UI→code, diagram, data viz, error, video |
+| **literature-survey-agent-swarm** | Multi-agent literature survey pipeline — 6 subagents, Workflow, quality scoring |
 
 ## What's NOT here (on purpose)
 

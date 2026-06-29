@@ -13,3 +13,6 @@
 [submodule "claude-code-statusline"]
 	path = claude-code-statusline
 	url = https://github.com/MuseLinn/claude-code-statusline.git
+[submodule "literature-survey-agent-swarm"]
+	path = literature-survey-agent-swarm
+	url = https://github.com/MuseLinn/literature-survey-agent-swarm.git

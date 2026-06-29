@@ -29,6 +29,11 @@
       "name": "kimi-vision-mcp",
       "description": "Kimi-powered vision MCP — image Q&A, OCR, UI→code, diagram understanding, data viz insights, error diagnosis, video analysis",
       "source": "./kimi-vision-mcp"
+    },
+    {
+      "name": "literature-survey-agent-swarm",
+      "description": "Multi-agent literature survey pipeline — route selection, multi-source collection, quality scoring, report generation. 6 Claude Code subagents + Workflow + Python scripts.",
+      "source": "./literature-survey-agent-swarm"
     }
   ]
 }
