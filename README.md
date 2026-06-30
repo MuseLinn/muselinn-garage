@@ -14,6 +14,7 @@ A focused Claude Code plugin marketplace. Only plugins that benefit from being h
 | **muselinn-toolkit** | Claude Code environment check — audit plugins/skills/config, sync garage |
 | **kimi-vision-mcp** | Kimi-powered vision MCP — image, OCR, UI→code, diagram, data viz, error, video |
 | **literature-survey-agent-swarm** | Multi-agent literature survey pipeline — 6 subagents, Workflow, quality scoring |
+| **image-extender-plugin** | Image outpainting — expand canvas + Poisson blend with gpt-image-2 |
 
 ## What's NOT here (on purpose)
 
@@ -37,7 +38,7 @@ claude plugin install obsidian
 
 ```bash
 claude plugin marketplace add MuseLinn/muselinn-garage
-claude plugin install claude-code-statusline gpt-image-2 patent-disclosure-skill muselinn-toolkit kimi-vision-mcp
+claude plugin install claude-code-statusline gpt-image-2 patent-disclosure-skill muselinn-toolkit kimi-vision-mcp literature-survey-agent-swarm image-extender-plugin
 ```
 
 After installing `claude-code-statusline`, run `/setup` or `/configure`.

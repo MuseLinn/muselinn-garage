@@ -16,3 +16,6 @@
 [submodule "literature-survey-agent-swarm"]
 	path = literature-survey-agent-swarm
 	url = https://github.com/MuseLinn/literature-survey-agent-swarm.git
+[submodule "image-extender-plugin"]
+	path = image-extender-plugin
+	url = https://github.com/MuseLinn/image-extender-plugin.git

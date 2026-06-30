@@ -34,6 +34,11 @@
       "name": "literature-survey-agent-swarm",
       "description": "Multi-agent literature survey pipeline — route selection, multi-source collection, quality scoring, report generation. 6 Claude Code subagents + Workflow + Python scripts.",
       "source": "./literature-survey-agent-swarm"
+    },
+    {
+      "name": "image-extender-plugin",
+      "description": "Image outpainting — expand canvas in any direction, generate content via gpt-image-2, Poisson-blend seamlessly. MCP tools + /extend-image command.",
+      "source": "./image-extender-plugin"
     }
   ]
 }
