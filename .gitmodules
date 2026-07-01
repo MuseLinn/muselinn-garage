@@ -19,3 +19,6 @@
 [submodule "image-extender-plugin"]
 	path = image-extender-plugin
 	url = https://github.com/MuseLinn/image-extender-plugin.git
+[submodule "cn-defense-deck"]
+	path = cn-defense-deck
+	url = https://github.com/MuseLinn/cn-defense-deck.git

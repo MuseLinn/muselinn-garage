@@ -6,6 +6,11 @@
   },
   "plugins": [
     {
+      "name": "cn-defense-deck",
+      "description": "中文学术答辩PPT生成（开题/中期/毕业答辩）。ThesisDefensePPT类支持10种页面类型、红色加粗关键词、校徽banner。",
+      "source": "./cn-defense-deck"
+    },
+    {
       "name": "claude-code-statusline",
       "description": "Multi-provider statusline for Claude Code — DeepSeek ¥ tracking, opencode go subscription usage, Anthropic context bar. TrueColor gradient, git porcelain, code churn.",
       "source": "./claude-code-statusline"
