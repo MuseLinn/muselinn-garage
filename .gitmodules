@@ -1,24 +1,32 @@
 [submodule "patent-disclosure"]
 	path = patent-disclosure
 	url = https://github.com/MuseLinn/MuseLinn-patent-disclosure-skill.git
+	branch = main
 [submodule "gpt-image-2"]
 	path = gpt-image-2
 	url = https://github.com/MuseLinn/gpt-image-2.git
+	branch = main
 [submodule "muselinn-toolkit"]
 	path = muselinn-toolkit
 	url = https://github.com/MuseLinn/muselinn-toolkit.git
+	branch = main
 [submodule "kimi-vision-mcp"]
 	path = kimi-vision-mcp
 	url = https://github.com/MuseLinn/kimi-vision-mcp.git
+	branch = master
 [submodule "claude-code-statusline"]
 	path = claude-code-statusline
 	url = https://github.com/MuseLinn/claude-code-statusline.git
+	branch = master
 [submodule "literature-survey-agent-swarm"]
 	path = literature-survey-agent-swarm
 	url = https://github.com/MuseLinn/literature-survey-agent-swarm.git
+	branch = master
 [submodule "image-extender-plugin"]
 	path = image-extender-plugin
 	url = https://github.com/MuseLinn/image-extender-plugin.git
+	branch = master
 [submodule "cn-defense-deck"]
 	path = cn-defense-deck
 	url = https://github.com/MuseLinn/cn-defense-deck.git
+	branch = main
