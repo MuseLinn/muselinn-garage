@@ -45,32 +45,13 @@ After installing `claude-code-statusline`, run `/setup` or `/configure`.
 
 ## Update
 
-Garage plugins use git submodules pinned to specific commits. A plain `git pull` won't update them.
-
-To pull the latest plugin versions:
-
 ```bash
-# Option A: run the update script (recommended)
-bash garage-update.sh
-
-# Option B: manual
-git pull                                    # latest marketplace repo
-git submodule update --init --recursive     # checkout newest plugin commits
+/plugin marketplace update muselinn-garage
+/plugin update claude-code-statusline
+/reload-plugins
 ```
 
-Then tell Claude Code to reload the plugins:
-
-```bash
-claude plugin update claude-code-statusline
-claude plugin update gpt-image-2
-# ... repeat for each installed garage plugin
-```
-
-Or just reinstall all at once:
-
-```bash
-claude plugin install claude-code-statusline gpt-image-2 patent-disclosure-skill muselinn-toolkit kimi-vision-mcp literature-survey-agent-swarm image-extender-plugin
-```
+Or enable **auto-update** in the plugin manager (`/plugin` → Marketplaces → muselinn-garage).
 
 ## License
 
